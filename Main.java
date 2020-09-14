@@ -31,8 +31,8 @@ public class Main {
         } else {
             System.out.println("Invalid day");
         }
-
-//        switch (day){
+        
+//         switch (day){
 //            case 1:
 //                System.out.println("Sunday");
 //
